@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 new branch dev and new feature1.
 new feature2.
 feature vulcan.
+I add feature4
